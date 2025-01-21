@@ -1,6 +1,6 @@
 # SHOP.CO - Marketplace Foundation 🚀  
 
-🚀 **Hackathon 3 - Task 2: Building the Marketplace Foundation!** 🚀  
+🚀 **Hackathon 3 - Task: Building the Marketplace Foundation!** 🚀  
 
 ---
 
@@ -38,17 +38,6 @@ Welcome to **SHOP.CO**, an ambitious project to create a **general e-commerce pl
   - Platform: [Vercel](https://vercel.com/) for fast, scalable hosting.  
 
 ---
-
-## 🔗 **Current Progress**  
-1. **Day 1:**  
-   - Defined project scope.  
-   - Planned technical architecture.  
-2. **Day 2:**  
-   - Designed system architecture diagrams.  
-   - Completed foundational setup for frontend, backend, and API integrations.  
-
----
-
 ## 🌟 **Goals for the Project**  
 - Build a seamless and intuitive shopping experience.  
 - Ensure robust backend integrations for scalability.  
